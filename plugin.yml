@@ -1,0 +1,6 @@
+main: fr.hikings.nomob.Main
+name: NoMob
+version: 1.0
+depend: [WorldGuard]
+commands:
+  nomob:
